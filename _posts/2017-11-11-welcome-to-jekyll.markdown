@@ -11,7 +11,7 @@ Is this two?
 
 Maybe I can add a picture.
 
-![Pic of offic](/_images/offic.jpg){:class="img-responsive"}
+![Pic of office]({{/_images/offic.jpg | absolute_url}}){:class="img-responsive"}
 {% highlight ruby %}
 Highlights and stuff
 #=> Some shit here.
